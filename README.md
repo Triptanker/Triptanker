@@ -18,5 +18,5 @@
 
 
 ### Contacto
-- [LinkedIn](www.linkedin.com/in/alvaro-martin-rosado)
+- [LinkedIn](https://www.linkedin.com/in/alvaro-martin-rosado)
 
