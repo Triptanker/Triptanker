@@ -7,7 +7,8 @@
 - 🔭 Trabajando en varios proyectos de código abierto.
 
 ### Tecnologías y Herramientas
-Java
+Java ![Static Badge](https://img.shields.io/badge/Java-blue)
+
 Python ![Static Badge](https://img.shields.io/badge/Python-orange)
 C
 C#
