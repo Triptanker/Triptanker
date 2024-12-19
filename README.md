@@ -8,7 +8,7 @@
 
 ### Tecnologías y Herramientas
 Java
-Python
+Python ![Static Badge](https://img.shields.io/badge/Python-orange)
 C
 C#
 MySQL
