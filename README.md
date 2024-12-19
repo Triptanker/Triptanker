@@ -13,7 +13,7 @@
 
 ![Static Badge](https://img.shields.io/badge/HTML-grey)   ![Static Badge](https://img.shields.io/badge/CSS-lightblue)   ![Static Badge](https://img.shields.io/badge/AndroidStudio-lightgreen)
 
-![Static Badge](https://img.shields.io/badge/NetBeans-lightgrey)   ![Static Badge](https://img.shields.io/badge/VisualStudioCode-darkblue)   ![Static Badge](https://img.shields.io/badge/Eclipse-pink)
+![Static Badge](https://img.shields.io/badge/VisualStudioCode-darkblue)   ![Static Badge](https://img.shields.io/badge/NetBeans-lightgrey)   ![Static Badge](https://img.shields.io/badge/Eclipse-pink)
 
 
 
